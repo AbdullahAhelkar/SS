@@ -19,16 +19,11 @@ This repository contains a simple script to automatically install and configure 
 
 ### **Step 1: Fetch the Script**
 
-SSH into your server and fetch the script using `curl` or `wget`:
-
-#### Option 1: Using `curl`
-```bash
-curl -O https://raw.githubusercontent.com/AbdullahAhelkar/SS/main/install_shadowsocks.sh
-```
+SSH into your server and fetch the script using `wget`:
 
 #### Option 2: Using `wget`
 ```bash
-wget https://raw.githubusercontent.com/AbdullahAhelkar/SS/main/install_shadowsocks.sh
+wget https://raw.githubusercontent.com/AbdullahAhelkar/SS/refs/heads/main/install.sh
 ```
 
 ### **Step 2: Run the Script**
