@@ -23,12 +23,12 @@ SSH into your server and fetch the script using `curl` or `wget`:
 
 #### Option 1: Using `curl`
 ```bash
-curl -O https://raw.githubusercontent.com/<your-username>/<your-repo>/main/install_shadowsocks.sh
+curl -O https://raw.githubusercontent.com/AbdullahAhelkar/SS/main/install_shadowsocks.sh
 ```
 
 #### Option 2: Using `wget`
 ```bash
-wget https://raw.githubusercontent.com/<your-username>/<your-repo>/main/install_shadowsocks.sh
+wget https://raw.githubusercontent.com/AbdullahAhelkar/SS/main/install_shadowsocks.sh
 ```
 
 ### **Step 2: Run the Script**
