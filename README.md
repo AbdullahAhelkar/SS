@@ -21,7 +21,6 @@ This repository contains a simple script to automatically install and configure 
 
 SSH into your server and fetch the script using `wget`:
 
-#### Option 2: Using `wget`
 ```bash
 wget https://raw.githubusercontent.com/AbdullahAhelkar/SS/refs/heads/main/install.sh
 ```
