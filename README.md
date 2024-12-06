@@ -29,12 +29,12 @@ wget https://raw.githubusercontent.com/AbdullahAhelkar/SS/refs/heads/main/instal
 
 1. Make the script executable:
    ```bash
-   chmod +x install_shadowsocks.sh
+   chmod +x install.sh
    ```
 
 2. Run the script:
    ```bash
-   sudo ./install_shadowsocks.sh
+   sudo ./install.sh
    ```
 
 ---
